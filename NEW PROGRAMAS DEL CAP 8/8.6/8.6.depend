@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722552223 source:c:\users\franc\desktop\programacion\new programas del cap 8\8.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
